@@ -10,8 +10,8 @@
 ## Integrantes
 - [Ana Laura Pereira](https://github.com/anacatarinop/tech-espm/)
 - [André Kalili](https://github.com/AndreKalili/tech-espm/)
-- [Gabriel Ponzio]( https://github.com/WoLF-Ponzio/tech-espm/)
 - [Artur Cozzi](https://github.com/ArturCozzi/tech-espm/)
+- [Gabriel Ponzio]( https://github.com/WoLF-Ponzio/tech-espm/)
 - [Vinicius Luz](https://github.comViniciusSMLuz/tech-espm/)
 
 
