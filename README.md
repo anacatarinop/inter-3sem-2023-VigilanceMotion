@@ -12,7 +12,7 @@
 - [André Kalili](https://github.com/AndreKalili)
 - [Artur Cozzi](https://github.com/ArturCozzi)
 - [Gabriel Ponzio]( https://github.com/WoLF-Ponzio)
-- [Vinicius Luz](https://github.comViniciusSMLuz)
+- [Vinicius Luz](https://github.com/ViniciusSMLuz) 
 
 
 ## Descrição do Projeto
