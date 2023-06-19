@@ -8,11 +8,11 @@
 ### 2023-01
 
 ## Integrantes
-- [Ana Laura Pereira](https://github.com/anacatarinop/tech-espm/)
-- [André Kalili](https://github.com/AndreKalili/tech-espm/)
-- [Artur Cozzi](https://github.com/ArturCozzi/tech-espm/)
-- [Gabriel Ponzio]( https://github.com/WoLF-Ponzio/tech-espm/)
-- [Vinicius Luz](https://github.comViniciusSMLuz/tech-espm/)
+- [Ana Laura Pereira](https://github.com/anacatarinop)
+- [André Kalili](https://github.com/AndreKalili)
+- [Artur Cozzi](https://github.com/ArturCozzi)
+- [Gabriel Ponzio]( https://github.com/WoLF-Ponzio)
+- [Vinicius Luz](https://github.comViniciusSMLuz)
 
 
 ## Descrição do Projeto
